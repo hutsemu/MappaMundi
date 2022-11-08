@@ -8,7 +8,7 @@ state={
 		add_core_of = SOV
 		add_core_of = RUS
 		add_core_of = MSC
-
+		add_core_of = MC2
 	}
 
 	provinces={
@@ -17,4 +17,5 @@ state={
 	manpower=1824120
 	buildings_max_level_factor=1.000
 	state_category=town
+	local_supplies=0.0 
 }

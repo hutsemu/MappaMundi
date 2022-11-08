@@ -10,10 +10,10 @@ state={
         add_core_of = POL
 		add_core_of = NOW
         add_core_of = BLR
-		add_claim_by = LV2
 		add_core_of = HGM
     }	
 	manpower=1000
 	state_category = pastoral
 	buildings_max_level_factor=1.000
+	local_supplies=0.0 
 }

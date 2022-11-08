@@ -9,6 +9,7 @@ state={
 		add_core_of = AZR
 		add_claim_by = NGK
 		add_claim_by = RKU
+		add_core_of = KC2
 	}
 	manpower = 1000
 	state_category = pastoral
@@ -16,4 +17,5 @@ state={
 		21006
 	}
 	buildings_max_level_factor=1.000
+	local_supplies=0.0 
 }

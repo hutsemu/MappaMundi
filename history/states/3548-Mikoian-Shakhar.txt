@@ -19,6 +19,7 @@ state={
 		add_core_of = GLD
 		add_core_of = MTN
 		add_claim_by = UKR
+		add_core_of = KC2
 		victory_points = {
 			13738 5
 		}
@@ -27,4 +28,5 @@ state={
 	manpower=1000 
 	state_category=small_island
 	buildings_max_level_factor=1.000
+	local_supplies=0.0 
 }

@@ -15,6 +15,7 @@ state={
 		add_core_of = OSS
 		add_core_of = GLD
 		add_core_of = MTN
+		add_core_of = KC2
 
 	victory_points = {
 		17405 5
@@ -23,4 +24,5 @@ state={
 	manpower = 1000
 	state_category = pastoral
 	buildings_max_level_factor=1.000
+	local_supplies=0.0 
 }

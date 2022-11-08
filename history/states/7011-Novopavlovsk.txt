@@ -13,6 +13,7 @@ state={
 		add_core_of = CSK
 		add_core_of = GLD
 		add_core_of = MTN
+		add_core_of = KC2
 
 	}
 
@@ -22,4 +23,5 @@ state={
 	manpower=1000
 	buildings_max_level_factor=1.000
 	state_category=pastoral
+	local_supplies=0.0 
 }

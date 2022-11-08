@@ -10,7 +10,7 @@ state={
 		add_core_of = CZE
 		add_core_of = MRV
 		add_core_of = SLO
-
+		add_core_of = CZ2
 	}
 
 	
@@ -20,4 +20,5 @@ state={
 	manpower=30500
 	buildings_max_level_factor=1.000
 	state_category=pastoral
+	local_supplies=0.0 
 }

@@ -15,7 +15,6 @@ state={
 		add_core_of = RUS
 		add_core_of = IVN
         add_core_of = GRK
-
 	}
 
 	provinces={
@@ -24,4 +23,5 @@ state={
 	manpower=3378176
 	buildings_max_level_factor=1.000
 	state_category=city
+	local_supplies=0.0 
 }

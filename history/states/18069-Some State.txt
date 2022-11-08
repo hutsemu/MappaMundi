@@ -13,9 +13,11 @@ state={
 		add_core_of = HGM
 		add_core_of = MML
 		add_core_of = SGO
+		add_claim_by = GER
 	}
 
 	manpower=1
 	buildings_max_level_factor = 1.000
 	state_category=wasteland
+	local_supplies=0.0 
 }

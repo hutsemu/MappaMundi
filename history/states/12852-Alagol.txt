@@ -9,6 +9,7 @@ state={
         add_core_of = AZR
         add_claim_by = NGK
 		add_core_of = RKU
+		add_core_of = KC2
 
 	}
 	manpower = 1000
@@ -17,4 +18,5 @@ state={
 		1231
 	}
 	buildings_max_level_factor=1.000
+	local_supplies=0.0 
 }

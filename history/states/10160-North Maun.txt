@@ -5,11 +5,12 @@ state={
 		19490 
 	}
 	history={
-	    owner = BOT
-        add_core_of = BOT
-        add_core_of = LKB
+	    owner = LBA
+        add_core_of = LBA
+        add_core_of = CYR
     }	
 	manpower=1000
 	state_category = pastoral
 	buildings_max_level_factor=1.000
+	local_supplies=0.0 
 }

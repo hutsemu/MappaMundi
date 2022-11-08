@@ -8,6 +8,8 @@ state={
 		add_core_of = MSC
 		add_core_of = GLD
         add_core_of = VRN
+		add_core_of = KC2
+		add_claim_by = UA2
 	}
 	provinces={
 		9529
@@ -15,4 +17,5 @@ state={
 	manpower=1000
 	state_category=pastoral
 	buildings_max_level_factor=1.000
+	local_supplies=0.0 
 }

@@ -11,8 +11,10 @@ state={
 		add_core_of = GEO
 		add_core_of = TSC
 		add_core_of = MNG
+		add_claim_by = KC2
 	}
 	manpower = 6900
 	state_category = pastoral
 	buildings_max_level_factor=1.000
+	local_supplies=0.0 
 }

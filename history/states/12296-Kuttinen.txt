@@ -1,17 +1,16 @@
 state={
 	id=12296
 	name="STATE_12296"
-	
-	history = {
-		owner = KAR
-		add_core_of = SOV
-		add_core_of = KAR
-		add_core_of = RUS
-	}
+	history={
+	    owner = COG
+        add_core_of = COG
+		add_core_of = LCN
+    }
 	manpower = 1000
 	state_category = pastoral
 	provinces={
 		20950
 	}
 	buildings_max_level_factor=1.000
+	local_supplies=0.0 
 }

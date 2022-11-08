@@ -6,11 +6,13 @@ state={
 		add_core_of = SOV
 		add_core_of = RUS
 		add_core_of = MSC
+		add_claim_by = UA2
 	}
 	provinces={
         9312 11436
 	}
 	manpower=1000
 	buildings_max_level_factor=1.000
-    state_category = pastoral
+	state_category = pastoral
+	local_supplies=0.0 
 }

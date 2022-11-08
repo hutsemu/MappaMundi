@@ -16,7 +16,7 @@ state={
 		add_core_of = TSC
 		add_core_of = GEO
 		add_core_of = ABK
-
+		add_claim_by = KC2
 	}
 
 	provinces={
@@ -25,4 +25,5 @@ state={
 	manpower=34001
 	buildings_max_level_factor=1.000
 	state_category=pastoral
+	local_supplies=0.0 
 }

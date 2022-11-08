@@ -16,7 +16,6 @@ state={
 		add_core_of = POL
 		add_core_of = BLR
 		add_core_of = BIY
-		add_claim_by = LV2
 		add_core_of = HGM
 	}
 
@@ -26,4 +25,5 @@ state={
 	manpower=423000
 	buildings_max_level_factor=1.000
 	state_category=rural
+	local_supplies=0.0 
 }

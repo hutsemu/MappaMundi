@@ -8,6 +8,7 @@ state={
 		add_core_of = SOV
 		add_core_of = TSC
 		add_core_of = ARM
+		add_claim_by = KC2
 		victory_points = { 12320 25 }
 	}
 
@@ -17,4 +18,5 @@ state={
 	manpower=800041
 	buildings_max_level_factor=1.000
 	state_category=town
+	local_supplies=0.0 
 }

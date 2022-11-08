@@ -8,11 +8,13 @@ state={
 		add_core_of = MSC
         add_core_of = PSK
 		add_claim_by = BLR
+		add_core_of = MC2
 	}
 	provinces={
 		3235 11272
 	}
 	manpower=1000
 	buildings_max_level_factor=1.000
-    state_category = pastoral
+	state_category = pastoral
+	local_supplies=0.0 
 }

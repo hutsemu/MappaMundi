@@ -5,11 +5,13 @@ state={
 		19518 
 	}
 	history={
-	    owner = SUD
-        add_core_of = SUD
+	    owner = MLI
+		add_core_of = MLI
+        add_core_of = AZW
 		add_core_of = SD0
     }	
 	manpower=1000
 	state_category = pastoral
 	buildings_max_level_factor=1.000
+	local_supplies=0.0 
 }

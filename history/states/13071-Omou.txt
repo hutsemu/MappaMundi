@@ -9,6 +9,7 @@ state={
 		add_core_of = MSC
         add_core_of = SMO
 		add_claim_by = BLR
+		add_core_of = MC2
 	}
 	manpower = 1000
 	state_category = pastoral
@@ -16,4 +17,5 @@ state={
 		3210 
 	}
 	buildings_max_level_factor=1.000
+	local_supplies=0.0 
 }

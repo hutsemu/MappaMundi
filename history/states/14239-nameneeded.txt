@@ -7,6 +7,7 @@ state={
 		add_core_of = RUS
 		add_core_of = MSC
         add_core_of = ORO
+		add_claim_by = UA2
 		victory_points = {
 			6369 25 
 		}
@@ -16,5 +17,6 @@ state={
 	}
 	manpower=1000
 	buildings_max_level_factor=1.000
-    state_category = pastoral
+	state_category = pastoral
+	local_supplies=0.0 
 }

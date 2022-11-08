@@ -7,6 +7,7 @@ state={
 		add_core_of = SOV
 		add_core_of = TSC
 		add_core_of = AZR
+		add_core_of = KC2
 		buildings = {
 			infrastructure = 4
 			
@@ -16,6 +17,7 @@ state={
 		1539 
 	}
 	manpower=1000 
- state_category=pastoral
+	state_category=pastoral
 	buildings_max_level_factor=1.000
+	local_supplies=0.0 
 }

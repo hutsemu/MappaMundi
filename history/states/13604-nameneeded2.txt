@@ -8,11 +8,13 @@ state={
         add_core_of = AZR
         add_claim_by = NGK
 		add_claim_by = RKU
+		add_core_of = KC2
 	}
 	provinces={
 		2280
 	}
 	manpower=1000
 	buildings_max_level_factor=1.000
-    state_category = pastoral
+	state_category = pastoral
+	local_supplies=0.0 
 }
